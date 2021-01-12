@@ -1,7 +1,7 @@
 {
-  "name": "serendia-v12-altyapi",
+  "name": "messy-v12-altyapi",
   "version": "1.0.0",
-  "description": "Serendia Squad tarafından paylaşılan kodları yenilikçi bir alt yapıda kullanabilmen için tasarlanmış bot alt yapısıdır.",
+  "description": "Messy xd",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +12,6 @@
     "yapı",
     "Alosha"
   ],
-  "author": "Serendia Squad",
+  "author": "Messy",
   "license": "MIT"
 }
